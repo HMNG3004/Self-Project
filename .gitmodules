@@ -1,0 +1,3 @@
+[submodule "Financial Management Project/FinancialManagement_Client"]
+	path = Financial Management Project/FinancialManagement_Client
+	url = https://github.com/HMNG3004/FinancialManagement_Client.git
